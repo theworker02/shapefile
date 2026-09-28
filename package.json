@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/shapefile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shape structured JSON file payloads without a heavyweight toolkit.",
+  "bin": {
+    "shapefile": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/shapefile.git"
+  },
+  "homepage": "https://theworker02.github.io/shapefile/",
+  "keywords": [
+    "shape",
+    "file",
+    "json",
+    "cli",
+    "toolkit"
+  ]
+}
